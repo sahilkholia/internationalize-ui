@@ -1,0 +1,48 @@
+.App-Body {
+  background-color: rgb(194, 194, 194);
+  width: 100%;
+  min-height: 100vh;
+  margin: 0%;
+  padding: 0%;
+}
+.Language {
+  width: 5%;
+
+  float: right;
+  min-height: 1rem;
+  margin-right: 1rem;
+  margin-top: 1rem;
+}
+.Heading {
+  width: fit-content;
+  margin-left: 40%;
+  padding: 1rem;
+}
+.Survey {
+  background-color: aliceblue;
+  width: 70%;
+  margin-left: 15%;
+  min-height: 40vh;
+  padding: 1%;
+}
+
+.Options {
+  margin-left: 5%;
+  margin-top: 2%;
+  margin-bottom: 5%;
+  max-width: 20%;
+}
+.option {
+  float: left;
+  width: 100%;
+  min-height: fit-content;
+}
+
+.radio {
+  width: fit-content;
+  float: left;
+}
+.radio-text {
+  width: fit-content;
+  float: right;
+}
